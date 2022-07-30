@@ -2,7 +2,7 @@
   "kind": "collectionType",
   "collectionName": "controladors",
   "info": {
-    "name": "Controlador",
+    "name": "Rutinas",
     "description": ""
   },
   "options": {
